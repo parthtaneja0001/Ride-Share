@@ -275,38 +275,4 @@ jwt.expiration=86400000
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the **MIT License**.
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📧 Contact
-
-For questions, feedback, or issues:
-- Open an issue on **GitHub**
-- Contact via project repository
-
----
-
-## 🙏 Acknowledgments
-
-- **Spring Boot** for the powerful framework
-- **MongoDB** for flexible data storage
-- **JWT** for secure authentication
-
----
-
-**Happy Coding! 🚀**
